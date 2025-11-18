@@ -1,0 +1,19 @@
+body {
+ background: linear-gradient(to right, pink, white);
+
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+h4 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+}
+pre, p {
+    font-size: 18px;
+    font-family: "Times New Roman", serif;
+    line-height: 1.5;
+    color: #111111; 
+}
